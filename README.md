@@ -25,85 +25,51 @@
 
 ### 🧠 My Skills
 
+#### 💻 Programming Languages
 <p>
-  <b>🔘 Click a tab to expand</b>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<!-- Simulated Tabs -->
+#### 🌐 Web Development
 <p>
-  🔹 <a href="#frontend">Frontend</a> | 
-  🔹 <a href="#backend">Backend</a> | 
-  🔹 <a href="#ml-ds">ML / Data Science</a> | 
-  🔹 <a href="#tools">Tools</a> | 
-  🔹 <a href="#languages">Languages</a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+#### 📊 Data Science & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+#### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-### 🔹 <a name="frontend"></a>Frontend (Intermediate)
 
-<details>
-<summary>Click to expand</summary>
-<br/>
-• HTML / CSS / JavaScript  
-• ReactJS  
-• Bootstrap  
-</details>
-
----
-
-### 🔹 <a name="backend"></a>Backend (Intermediate)
-
-<details>
-<summary>Click to expand</summary>
-<br/>
-• NodeJS  
-• ExpressJS  
-• MongoDB  
-• MySQL (with Java/GUI apps)  
-</details>
-
----
-
-### 🔹 <a name="ml-ds"></a>ML / Data Science
-
-<details>
-<summary>Click to expand</summary>
-<br/>
-• Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Imblearn) – Intermediate  
-• Tableau – Intermediate  
-• Machine Learning Concepts – Basic  
-• Data Science Basics – Basic  
-</details>
-
----
-
-### 🔹 <a name="tools"></a>Tools & Platforms
-
-<details>
-<summary>Click to expand</summary>
-<br/>
-• Git & GitHub  
-• VSCode, NetBeans  
-• Jupyter Notebook, Google Colab  
-• XAMPP  
-</details>
-
----
-
-### 🔹 <a name="languages"></a>Programming Languages
-
-<details>
-<summary>Click to expand</summary>
-<br/>
-• C – Intermediate  
-• C++ – Basic  
-• Java – Intermediate  
-• Python – Intermediate  
-• SQL – Intermediate  
-</details>
-
----
 
 
 ### 🧩 LeetCode Progress

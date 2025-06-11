@@ -78,16 +78,22 @@
 
 ---
 
+### 🧠 Kaggle Profile & Badges
 
-### 🧠 Kaggle Badges
-
-<p align="left">
+<p align="center">
   <a href="https://www.kaggle.com/niyatisanja" target="_blank">
-    <img src="https://github.com/niyatisanja0206/niyatisanja0206/blob/main/notebooks.png?raw=true" height="60" alt="Notebooks Expert"/>
-    <img src="https://github.com/niyatisanja0206/niyatisanja0206/blob/main/datasets.png?raw=true" height="60" alt="Datasets Contributor"/>
-    <img src="https://github.com/niyatisanja0206/niyatisanja0206/blob/main/competitions.png?raw=true" height="60" alt="Competitions Novice"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python%20Coder-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Code%20Uploader-green?style=for-the-badge&logo=upload&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Code%20Forker-yellow?style=for-the-badge&logo=git-fork&logoColor=black" />
+  <img src="https://img.shields.io/badge/-GitHub%20Coder-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
 
 ---
 

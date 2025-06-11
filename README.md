@@ -23,67 +23,88 @@
 
 ---
 
----
+### 🧠 My Skills
+
+<p>
+  <b>🔘 Click a tab to expand</b>
+</p>
+
+<!-- Simulated Tabs -->
+<p>
+  🔹 <a href="#frontend">Frontend</a> | 
+  🔹 <a href="#backend">Backend</a> | 
+  🔹 <a href="#ml-ds">ML / Data Science</a> | 
+  🔹 <a href="#tools">Tools</a> | 
+  🔹 <a href="#languages">Languages</a>
+</p>
 
 ---
 
-### 🧠 Skills
+### 🔹 <a name="frontend"></a>Frontend (Intermediate)
 
-<!-- Programming Languages Tab -->
 <details>
-  <summary><strong>💻 Programming Languages</strong></summary>
-  <br/>
-  <p>
-    🟡 <strong>C</strong> – Intermediate<br/>
-    🟠 <strong>C++ (for DSA)</strong> – Basic<br/>
-    🟡 <strong>Python (for ML & DS)</strong> – Intermediate<br/>
-    🟡 <strong>Java</strong> – Intermediate<br/>
-    🟡 <strong>SQL</strong> – Intermediate<br/>
-  </p>
-</details>
-
-<!-- Web Development Tab -->
-<details>
-  <summary><strong>🌐 Web Development</strong></summary>
-  <br/>
-  <p>
-    🟡 <strong>HTML / CSS / JavaScript</strong> – Intermediate<br/>
-    🟡 <strong>MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)</strong> – Intermediate<br/>
-    🟡 <strong>Bootstrap</strong> – Intermediate<br/>
-  </p>
-</details>
-
-<!-- ML & Data Science Tab -->
-<details>
-  <summary><strong>📊 Data Science & Machine Learning</strong></summary>
-  <br/>
-  <p>
-    🟠 <strong>Machine Learning (Scikit-learn)</strong> – Basic<br/>
-    🟠 <strong>Data Science Concepts</strong> – Basic<br/>
-    🟡 <strong>Data Visualization (Tableau)</strong> – Intermediate<br/>
-    🟡 <strong>Pandas, NumPy, Matplotlib, Seaborn, Imblearn</strong> – Intermediate<br/>
-  </p>
-</details>
-
-<!-- Tools Tab -->
-<details>
-  <summary><strong>🛠️ Tools & Platforms</strong></summary>
-  <br/>
-  <p>
-    🟡 <strong>VS Code, NetBeans, XAMPP, Jupyter, Google Colab</strong> – Intermediate<br/>
-    🟡 <strong>Git & GitHub</strong> – Intermediate<br/>
-    🟠 <strong>Software Engineering Concepts</strong> – Basic<br/>
-  </p>
+<summary>Click to expand</summary>
+<br/>
+• HTML / CSS / JavaScript  
+• ReactJS  
+• Bootstrap  
 </details>
 
 ---
 
-🟢 Advanced | 🟡 Intermediate | 🟠 Basic
+### 🔹 <a name="backend"></a>Backend (Intermediate)
+
+<details>
+<summary>Click to expand</summary>
+<br/>
+• NodeJS  
+• ExpressJS  
+• MongoDB  
+• MySQL (with Java/GUI apps)  
+</details>
 
 ---
 
+### 🔹 <a name="ml-ds"></a>ML / Data Science
+
+<details>
+<summary>Click to expand</summary>
+<br/>
+• Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, Imblearn) – Intermediate  
+• Tableau – Intermediate  
+• Machine Learning Concepts – Basic  
+• Data Science Basics – Basic  
+</details>
 
 ---
+
+### 🔹 <a name="tools"></a>Tools & Platforms
+
+<details>
+<summary>Click to expand</summary>
+<br/>
+• Git & GitHub  
+• VSCode, NetBeans  
+• Jupyter Notebook, Google Colab  
+• XAMPP  
+</details>
+
+---
+
+### 🔹 <a name="languages"></a>Programming Languages
+
+<details>
+<summary>Click to expand</summary>
+<br/>
+• C – Intermediate  
+• C++ – Basic  
+• Java – Intermediate  
+• Python – Intermediate  
+• SQL – Intermediate  
+</details>
+
+---
+
 
 ### 🧩 LeetCode Progress
 

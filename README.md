@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatisanja0206&langs_count=6&layout=compact&hide=html,css&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatisanja0206&layout=compact&theme=radical" width="45%"/>
 </p>
 
 ---

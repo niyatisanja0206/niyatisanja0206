@@ -68,28 +68,15 @@
 
 ---
 
-### 🧠 Coding Practice Progress
+### 🧠 LeetCode Progress
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>📊 LeetCode</h3>
-      <a href="https://leetcode.com/niyatisanja" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/NIYATI_0206?theme=dark&ext=contest" alt="LeetCode Stats" />
-      </a>
-    </td>
-    <td align="center">
-      <h3>🧪 HackerRank</h3>
-      <a href="https://www.hackerrank.com/profile/niyateesanja" target="_blank">
-        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-      </a>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://leetcode.com/niyatisanja" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/NIYATI_0206?theme=dark&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
-
 
 ### 📌 Pinned Projects
 

@@ -23,12 +23,59 @@
 
 ---
 
-### 💻 Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python" /><br/>
-  <img src="https://skillicons.dev/icons?i=java,mysql,bootstrap,c,c++,opencv,tableau" />
-</p>
+### 🧠 Skills
+
+<!-- Programming Languages -->
+<details>
+  <summary><strong>💻 Programming Languages</strong></summary>
+  <br/>
+  <table>
+    <tr><td><b>C</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
+    <tr><td><b>C++ (for DSA)</b></td><td><progress value="40" max="100"></progress> Basic</td></tr>
+    <tr><td><b>Python (ML & DS)</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
+    <tr><td><b>Java</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
+    <tr><td><b>SQL</b></td><td><progress value="65" max="100"></progress> Intermediate</td></tr>
+  </table>
+</details>
+
+<!-- Web Development -->
+<details>
+  <summary><strong>🌐 Web Development</strong></summary>
+  <br/>
+  <table>
+    <tr><td><b>HTML/CSS/JavaScript</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
+    <tr><td><b>MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
+    <tr><td><b>Bootstrap</b></td><td><progress value="60" max="100"></progress> Intermediate</td></tr>
+  </table>
+</details>
+
+<!-- Machine Learning & DS -->
+<details>
+  <summary><strong>📊 Data Science & Machine Learning</strong></summary>
+  <br/>
+  <table>
+    <tr><td><b>Machine Learning (Scikit-learn)</b></td><td><progress value="40" max="100"></progress> Basic</td></tr>
+    <tr><td><b>Data Science</b></td><td><progress value="40" max="100"></progress> Basic</td></tr>
+    <tr><td><b>Tableau</b></td><td><progress value="65" max="100"></progress> Intermediate</td></tr>
+    <tr><td><b>Pandas, NumPy, Matplotlib, Seaborn, Imblearn</b></td><td><progress value="65" max="100"></progress> Intermediate</td></tr>
+  </table>
+</details>
+
+<!-- Tools -->
+<details>
+  <summary><strong>🛠️ Tools & Platforms</strong></summary>
+  <br/>
+  <table>
+    <tr><td><b>VS Code, NetBeans, Jupyter, Colab, XAMPP</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
+    <tr><td><b>Git & GitHub</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
+    <tr><td><b>Software Engineering Concepts</b></td><td><progress value="40" max="100"></progress> Basic</td></tr>
+  </table>
+</details>
+
+---
+
 
 ---
 

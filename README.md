@@ -53,11 +53,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niyatisanja0206&show_icons=true&theme=radical" width="45%"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=niyatisanja0206&theme=radical" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatisanja0206&layout=compact&theme=radical" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatisanja0206&layout=compact&theme=radical" width="45%"/>
 </p>
 
 ---

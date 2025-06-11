@@ -71,7 +71,7 @@
 ### 🧠 LeetCode Progress
 
 <p align="center">
-  <a href="https://leetcode.com/niyatisanja" target="_blank">
+  <a href="https://leetcode.com/NIYATI_0206" target="_blank">
     <img src="https://leetcard.jacoblin.cool/NIYATI_0206?theme=dark&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>

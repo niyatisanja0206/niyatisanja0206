@@ -78,6 +78,20 @@
 
 ---
 
+
+### 🧠 Kaggle Badges
+
+<p align="left">
+  <a href="https://www.kaggle.com/niyatisanja" target="_blank">
+    <img src="https://github.com/niyatisanja0206/niyatisanja0206/blob/main/notebooks.png?raw=true" height="60" alt="Notebooks Expert"/>
+    <img src="https://github.com/niyatisanja0206/niyatisanja0206/blob/main/datasets.png?raw=true" height="60" alt="Datasets Contributor"/>
+    <img src="https://github.com/niyatisanja0206/niyatisanja0206/blob/main/competitions.png?raw=true" height="60" alt="Competitions Novice"/>
+  </a>
+</p>
+
+---
+
+
 ### 📌 Pinned Projects
 
 | Project | Description |

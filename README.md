@@ -87,10 +87,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python%20Coder-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Code%20Uploader-green?style=for-the-badge&logo=upload&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Code%20Forker-yellow?style=for-the-badge&logo=git-fork&logoColor=black" />
-  <img src="https://img.shields.io/badge/-GitHub%20Coder-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.kaggle.com/niyatisanja" target="_blank">
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F09e1f99bdf3222934ad7769409ec3f6d%2FBadge-26.svg?generation=1727468059623106&alt=media" height="90" alt="Python Coder" />
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F1e4546d427340e1495b9ee02261e2dc6%2FBadge-34.svg?generation=1727468126171650&alt=media" height="90" alt="Code Uploader" />
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Ff219fc42b716ca24a2476517fe951295%2FBadge-32.svg?generation=1727468159669543&alt=media" height="90" alt="GitHub Coder" />
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" height="90" alt="Code Forker" />
+  </a>
 </p>
 
 ---

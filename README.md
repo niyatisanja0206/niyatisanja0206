@@ -80,8 +80,8 @@
     </td>
     <td align="center">
       <h3>🧪 HackerRank</h3>
-      <a href="https://www.hackerrank.com/niyatisanja" target="_blank">
-        <img src="https://img.shields.io/badge/niyateesanja?style=for-the-badge&logo=HackerRank&logoColor=white" />
+      <a href="https://www.hackerrank.com/profile/niyateesanja" target="_blank">
+        <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
       </a>
       <br/><br/>
     </td>

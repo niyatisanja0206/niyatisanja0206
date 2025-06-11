@@ -32,6 +32,12 @@
 
 ---
 
+### 🧩 LeetCode Progress
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/niyatisanja?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/niyatisanja)
+
+---
+
 ### 📌 Pinned Projects
 
 | Project | Description |

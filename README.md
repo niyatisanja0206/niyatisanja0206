@@ -25,54 +25,60 @@
 
 ---
 
+---
+
 ### 🧠 Skills
 
-<!-- Programming Languages -->
+<!-- Programming Languages Tab -->
 <details>
   <summary><strong>💻 Programming Languages</strong></summary>
   <br/>
-  <table>
-    <tr><td><b>C</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
-    <tr><td><b>C++ (for DSA)</b></td><td><progress value="40" max="100"></progress> Basic</td></tr>
-    <tr><td><b>Python (ML & DS)</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
-    <tr><td><b>Java</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
-    <tr><td><b>SQL</b></td><td><progress value="65" max="100"></progress> Intermediate</td></tr>
-  </table>
+  <p>
+    🟡 <strong>C</strong> – Intermediate<br/>
+    🟠 <strong>C++ (for DSA)</strong> – Basic<br/>
+    🟡 <strong>Python (for ML & DS)</strong> – Intermediate<br/>
+    🟡 <strong>Java</strong> – Intermediate<br/>
+    🟡 <strong>SQL</strong> – Intermediate<br/>
+  </p>
 </details>
 
-<!-- Web Development -->
+<!-- Web Development Tab -->
 <details>
   <summary><strong>🌐 Web Development</strong></summary>
   <br/>
-  <table>
-    <tr><td><b>HTML/CSS/JavaScript</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
-    <tr><td><b>MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
-    <tr><td><b>Bootstrap</b></td><td><progress value="60" max="100"></progress> Intermediate</td></tr>
-  </table>
+  <p>
+    🟡 <strong>HTML / CSS / JavaScript</strong> – Intermediate<br/>
+    🟡 <strong>MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)</strong> – Intermediate<br/>
+    🟡 <strong>Bootstrap</strong> – Intermediate<br/>
+  </p>
 </details>
 
-<!-- Machine Learning & DS -->
+<!-- ML & Data Science Tab -->
 <details>
   <summary><strong>📊 Data Science & Machine Learning</strong></summary>
   <br/>
-  <table>
-    <tr><td><b>Machine Learning (Scikit-learn)</b></td><td><progress value="40" max="100"></progress> Basic</td></tr>
-    <tr><td><b>Data Science</b></td><td><progress value="40" max="100"></progress> Basic</td></tr>
-    <tr><td><b>Tableau</b></td><td><progress value="65" max="100"></progress> Intermediate</td></tr>
-    <tr><td><b>Pandas, NumPy, Matplotlib, Seaborn, Imblearn</b></td><td><progress value="65" max="100"></progress> Intermediate</td></tr>
-  </table>
+  <p>
+    🟠 <strong>Machine Learning (Scikit-learn)</strong> – Basic<br/>
+    🟠 <strong>Data Science Concepts</strong> – Basic<br/>
+    🟡 <strong>Data Visualization (Tableau)</strong> – Intermediate<br/>
+    🟡 <strong>Pandas, NumPy, Matplotlib, Seaborn, Imblearn</strong> – Intermediate<br/>
+  </p>
 </details>
 
-<!-- Tools -->
+<!-- Tools Tab -->
 <details>
   <summary><strong>🛠️ Tools & Platforms</strong></summary>
   <br/>
-  <table>
-    <tr><td><b>VS Code, NetBeans, Jupyter, Colab, XAMPP</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
-    <tr><td><b>Git & GitHub</b></td><td><progress value="70" max="100"></progress> Intermediate</td></tr>
-    <tr><td><b>Software Engineering Concepts</b></td><td><progress value="40" max="100"></progress> Basic</td></tr>
-  </table>
+  <p>
+    🟡 <strong>VS Code, NetBeans, XAMPP, Jupyter, Google Colab</strong> – Intermediate<br/>
+    🟡 <strong>Git & GitHub</strong> – Intermediate<br/>
+    🟠 <strong>Software Engineering Concepts</strong> – Basic<br/>
+  </p>
 </details>
+
+---
+
+🟢 Advanced | 🟡 Intermediate | 🟠 Basic
 
 ---
 

@@ -19,6 +19,9 @@
   <a href="https://www.linkedin.com/in/niyati-sanja/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:niyatisanja@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/niyatisanja0206"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/niyatisanja" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -78,13 +81,7 @@
 
 ---
 
-### 🧠 Kaggle Profile & Badges
-
-<p align="center">
-  <a href="https://www.kaggle.com/niyatisanja" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-</p>
+### 🧠 Kaggle Badges
 
 <p align="center">
   <a href="https://www.kaggle.com/niyatisanja" target="_blank">

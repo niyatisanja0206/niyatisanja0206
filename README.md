@@ -75,7 +75,7 @@
     <td align="center">
       <h3>📊 LeetCode</h3>
       <a href="https://leetcode.com/niyatisanja" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/niyatisanja?theme=dark&ext=contest" alt="LeetCode Stats" />
+        <img src="https://leetcard.jacoblin.cool/NIYATI_0206?theme=dark&ext=contest" alt="LeetCode Stats" />
       </a>
     </td>
     <td align="center">

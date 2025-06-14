@@ -5,7 +5,7 @@
 
 ### 🔥 About Me
 
-- 👩‍💻 I’m a 3rd-year student at Marwadi University passionate about **Machine Learning** and **Web Development**  
+- 👩‍💻 I’m a final year B.tech Computer Engineering student at Marwadi University passionate about **Machine Learning, AI** and **Web Development**  
 - 🌱 Currently exploring **deep learning**, **data science**, and **computer vision**  
 - 🚀 Built projects like **Br. Care**, **Virtual Trial Room**, **Pustaka Pravah**  
 - 🤝 Open to collaboration on exciting real-world applications  

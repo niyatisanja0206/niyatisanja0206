@@ -76,7 +76,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/NIYATI_0206" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/NIYATI_0206?theme=tokyonight&ext=contest" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/NIYATI_0206?theme=dark&ext=contest" alt="LeetCode Stats" />
   </a>
 </p>
 

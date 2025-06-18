@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niyati Sanja</h1>
 
----
-
 <h3 align="center">B.Tech Computer Engineering Student | MERN Developer | ML Enthusiast</h3>
 
 ### 🔥 About Me

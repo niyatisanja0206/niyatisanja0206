@@ -112,7 +112,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=niyatisanja0206&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=niyatisanja0206&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">

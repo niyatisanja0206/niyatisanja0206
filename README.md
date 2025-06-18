@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Niyati Sanja</h1>
-<h3 align="center">B.Tech Computer Engineering Student | MERN Developer | ML Enthusiast</h3>
 
 ---
+
+<h3 align="center">B.Tech Computer Engineering Student | MERN Developer | ML Enthusiast</h3>
 
 ### 🔥 About Me
 
@@ -108,15 +109,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niyatisanja0206&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niyatisanja0206&show_icons=true&theme=tokyonight" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=niyatisanja0206&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=niyatisanja0206&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatisanja0206&layout=compact&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyatisanja0206&layout=compact&theme=tokyonight" width="45%"/>
 </p>
 
 ---

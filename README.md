@@ -88,6 +88,7 @@
     <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F1e4546d427340e1495b9ee02261e2dc6%2FBadge-34.svg?generation=1727468126171650&alt=media" height="90" alt="Code Uploader" />
     <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Ff219fc42b716ca24a2476517fe951295%2FBadge-32.svg?generation=1727468159669543&alt=media" height="90" alt="GitHub Coder" />
     <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F7567026dd0c594f1193b49a98a976056%2FBadge-35.svg?generation=1727468213893504&alt=media" height="90" alt="Code Forker" />
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2Fe06d05ebef3630403946b71cbdc11665%2FBadge-42.svg?generation=1727468309615075&alt=media" height="90" alt="Code Forker" />
   </a>
 </p>
 

@@ -113,7 +113,6 @@
 | 🔗 [**Pustaka Pravah**](https://github.com/niyatisanja0206/Pustak-Pravah.git) | MERN-based book-selling website |
 | 🔗 [**Br. Care**](https://github.com/niyatisanja0206/Br.Care.git) | ML model for cancer treatment prediction |
 | 🔗 [**Quiz App**](https://github.com/niyatisanja0206/Shashtrarth.git) | Java desktop app for quiz management |
-| 👗 Virtual Trial Room *(Coming Soon)* | Try-on system using computer vision |
 
 ---
 

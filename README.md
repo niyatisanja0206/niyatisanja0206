@@ -58,6 +58,18 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
+#### 🤖 GenAI
+<p> 
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LangGraph-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LangChain%20Agents-2E8B57?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/LangChain%20Memory-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF69B4?style=for-the-badge&logo=openai&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MLOps-3C873A?style=for-the-badge&logo=azure-devops&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Azure%20AI%20Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Model%20Deployment-FF8C00?style=for-the-badge&logo=azurepipelines&logoColor=white"/> 
+</p>
+
 #### 🧰 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
